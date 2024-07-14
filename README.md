@@ -1,2 +1,2 @@
-# Brainwave_Matrix_Solutions-task2-
+# Brainwave_Matrix_Intern-task2-
 Task2
